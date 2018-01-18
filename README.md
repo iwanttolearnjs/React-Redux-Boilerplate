@@ -25,4 +25,4 @@ To view your project, go to: [http://localhost:3000/](http://localhost:3000/)
 
 ## Links
 
-- [Donate](https://www.learnjs.in)
+- [Enroll Now for a Training](https://www.learnjs.in)
